@@ -1,0 +1,929 @@
+[
+  {
+    "id": "antara-terkini",
+    "name": "Antara News Terkini",
+    "url": "https://www.antaranews.com/rss/terkini.xml",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Kantor Berita Nasional Indonesia - Berita Terkini"
+  },
+  {
+    "id": "antara-ekonomi",
+    "name": "Antara News Ekonomi",
+    "url": "https://www.antaranews.com/rss/ekonomi.xml",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Berita Perkembangan Ekonomi & Bisnis Nasional"
+  },
+  {
+    "id": "antara-tekno",
+    "name": "Antara News Teknologi",
+    "url": "https://www.antaranews.com/rss/tekno.xml",
+    "category": "technology",
+    "language": "id",
+    "active": true,
+    "description": "Kabar Teknologi, Riset, & Inovasi Indonesia"
+  },
+  {
+    "id": "antara-dunia",
+    "name": "Antara News Dunia",
+    "url": "https://www.antaranews.com/rss/dunia.xml",
+    "category": "world",
+    "language": "id",
+    "active": true,
+    "description": "Kabar Hubungan Internasional & Berita Mancanegara"
+  },
+  {
+    "id": "antara-politik",
+    "name": "Antara News Politik",
+    "url": "https://www.antaranews.com/rss/politik.xml",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Politik, Regulasi, dan Pemerintahan"
+  },
+  {
+    "id": "tempo-nasional",
+    "name": "Tempo Nasional",
+    "url": "https://rss.tempo.co/nasional",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Investigasi & Berita Nasional Tempo"
+  },
+  {
+    "id": "tempo-bisnis",
+    "name": "Tempo Bisnis",
+    "url": "https://rss.tempo.co/bisnis",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Kajian Ekonomi, Investasi & Kebijakan Fiskal"
+  },
+  {
+    "id": "tempo-tekno",
+    "name": "Tempo Teknologi",
+    "url": "https://rss.tempo.co/tekno",
+    "category": "technology",
+    "language": "id",
+    "active": true,
+    "description": "Riset Sains & Perkembangan Gadget"
+  },
+  {
+    "id": "tempo-dunia",
+    "name": "Tempo Dunia",
+    "url": "https://rss.tempo.co/dunia",
+    "category": "world",
+    "language": "id",
+    "active": true,
+    "description": "Liputan Geopolitik Global Tempo"
+  },
+  {
+    "id": "cnn-indo-nasional",
+    "name": "CNN Indonesia Nasional",
+    "url": "https://www.cnnindonesia.com/nasional/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Nasional Terverifikasi CNN Indonesia"
+  },
+  {
+    "id": "cnn-indo-internasional",
+    "name": "CNN Indonesia Internasional",
+    "url": "https://www.cnnindonesia.com/internasional/rss",
+    "category": "world",
+    "language": "id",
+    "active": true,
+    "description": "Konflik Global & Diplomasi Internasional"
+  },
+  {
+    "id": "cnn-indo-ekonomi",
+    "name": "CNN Indonesia Ekonomi",
+    "url": "https://www.cnnindonesia.com/ekonomi/rss",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Pasar Modal, Makroekonomi & Industri"
+  },
+  {
+    "id": "cnn-indo-teknologi",
+    "name": "CNN Indonesia Teknologi",
+    "url": "https://www.cnnindonesia.com/teknologi/rss",
+    "category": "technology",
+    "language": "id",
+    "active": true,
+    "description": "Teknologi Informasi, AI & Telekomunikasi"
+  },
+  {
+    "id": "cnbc-indo-market",
+    "name": "CNBC Indonesia Market",
+    "url": "https://www.cnbcindonesia.com/market/rss",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Pergerakan IHSG, Komoditas, & Valuta Asing"
+  },
+  {
+    "id": "cnbc-indo-tech",
+    "name": "CNBC Indonesia Tech",
+    "url": "https://www.cnbcindonesia.com/tech/rss",
+    "category": "technology",
+    "language": "id",
+    "active": true,
+    "description": "Ekosistem Startup, Big Tech & Regulasi Digital"
+  },
+  {
+    "id": "cnbc-indo-news",
+    "name": "CNBC Indonesia News",
+    "url": "https://www.cnbcindonesia.com/news/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Utama Ekonomi Politik Nasional"
+  },
+  {
+    "id": "republika-terkini",
+    "name": "Republika Terkini",
+    "url": "https://republika.co.id/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Nasional dan Timur Tengah Republika"
+  },
+  {
+    "id": "republika-internasional",
+    "name": "Republika Internasional",
+    "url": "https://republika.co.id/rss/internasional",
+    "category": "world",
+    "language": "id",
+    "active": true,
+    "description": "Kabar Dunia & Diplomasi"
+  },
+  {
+    "id": "sindonews-nasional",
+    "name": "Sindonews Nasional",
+    "url": "https://nasional.sindonews.com/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Nasional & Pertahanan Sindonews"
+  },
+  {
+    "id": "sindonews-ekbis",
+    "name": "Sindonews Ekbis",
+    "url": "https://ekbis.sindonews.com/rss",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Ekonomi Bisnis & Sektor Keuangan"
+  },
+  {
+    "id": "sindonews-tekno",
+    "name": "Sindonews Tekno",
+    "url": "https://tekno.sindonews.com/rss",
+    "category": "technology",
+    "language": "id",
+    "active": true,
+    "description": "Inovasi Sains & Perangkat Lunak"
+  },
+  {
+    "id": "sindonews-internasional",
+    "name": "Sindonews Internasional",
+    "url": "https://international.sindonews.com/rss",
+    "category": "world",
+    "language": "id",
+    "active": true,
+    "description": "Dinamika Geopolitik Mancanegara"
+  },
+  {
+    "id": "merdeka-peristiwa",
+    "name": "Merdeka Peristiwa",
+    "url": "https://www.merdeka.com/feed/",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Kabar Peristiwa dan Kebijakan Publik"
+  },
+  {
+    "id": "suara-terkini",
+    "name": "Suara Terkini",
+    "url": "https://www.suara.com/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Nasional Independen Suara.com"
+  },
+  {
+    "id": "suara-bisnis",
+    "name": "Suara Bisnis",
+    "url": "https://www.suara.com/rss/bisnis",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Kabar Sektor Riil & Keuangan"
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC News World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Global breaking news and field reporting from BBC"
+  },
+  {
+    "id": "bbc-technology",
+    "name": "BBC News Technology",
+    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Technology innovations, artificial intelligence and cyber developments"
+  },
+  {
+    "id": "bbc-science-environment",
+    "name": "BBC Science & Environment",
+    "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Scientific discoveries, climate science, and orbital missions"
+  },
+  {
+    "id": "bbc-business",
+    "name": "BBC News Business",
+    "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "International corporate markets, trade, and economic policies"
+  },
+  {
+    "id": "aljazeera-all",
+    "name": "Al Jazeera English",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "In-depth geopolitical reporting and global southern perspectives"
+  },
+  {
+    "id": "dw-world",
+    "name": "Deutsche Welle Top Stories",
+    "url": "https://rss.dw.com/rdf/rss-en-all",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "European affairs and international diplomacy analysis"
+  },
+  {
+    "id": "theguardian-world",
+    "name": "The Guardian World",
+    "url": "https://www.theguardian.com/world/rss",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Investigative international reporting and geopolitical analysis"
+  },
+  {
+    "id": "theguardian-technology",
+    "name": "The Guardian Technology",
+    "url": "https://www.theguardian.com/technology/rss",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Silicon Valley critique, AI surveillance, and digital rights"
+  },
+  {
+    "id": "theguardian-science",
+    "name": "The Guardian Science",
+    "url": "https://www.theguardian.com/science/rss",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Breakthrough research, quantum physics, and cosmology"
+  },
+  {
+    "id": "npr-news",
+    "name": "NPR News Headlines",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Public broadcasting global and federal dispatches"
+  },
+  {
+    "id": "npr-science",
+    "name": "NPR Science Desk",
+    "url": "https://feeds.npr.org/1007/rss.xml",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Frontier research, biomedical discoveries, and physics"
+  },
+  {
+    "id": "npr-technology",
+    "name": "NPR Technology",
+    "url": "https://feeds.npr.org/1019/rss.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Digital culture, algorithms, and computational infrastructure"
+  },
+  {
+    "id": "france24-en",
+    "name": "France 24 International",
+    "url": "https://www.france24.com/en/rss",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Paris-based international news and diplomatic dispatches"
+  },
+  {
+    "id": "cbc-world",
+    "name": "CBC News World",
+    "url": "https://www.cbc.ca/cmlink/rss-world",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Canadian Broadcasting Corporation global affairs"
+  },
+  {
+    "id": "cbc-technology",
+    "name": "CBC Technology & Science",
+    "url": "https://www.cbc.ca/cmlink/rss-technology",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Technological advancements and applied science"
+  },
+  {
+    "id": "japan-times",
+    "name": "The Japan Times",
+    "url": "https://www.japantimes.co.jp/feed/",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Asia-Pacific geopolitical and economic security"
+  },
+  {
+    "id": "straits-times-asia",
+    "name": "The Straits Times Asia",
+    "url": "https://www.straitstimes.com/news/asia/rss.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Southeast Asian regional affairs and bilateral cooperation"
+  },
+  {
+    "id": "politico-global",
+    "name": "Politico Global",
+    "url": "https://rss.politico.com/politics-news.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Legislative politics, policy maneuvers, and defense budgets"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Venture capital, Silicon Valley startups, and AI innovations"
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Consumer electronics, frontier computing, and digital culture"
+  },
+  {
+    "id": "ars-technica",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Deep technical analysis of software, hardware, space, and policy"
+  },
+  {
+    "id": "wired-top",
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Long-form journalism on computational science and future tech"
+  },
+  {
+    "id": "engadget",
+    "name": "Engadget",
+    "url": "https://www.engadget.com/rss.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Hardware reviews, autonomous systems, and consumer tech"
+  },
+  {
+    "id": "venturebeat",
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Enterprise artificial intelligence, LLMs, and synthetic media"
+  },
+  {
+    "id": "toms-hardware",
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/feeds/all",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Semiconductor architecture, GPUs, CPUs, and chip fabrication"
+  },
+  {
+    "id": "anandtech",
+    "name": "AnandTech News",
+    "url": "https://www.anandtech.com/rss/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "In-depth microarchitecture and semiconductor performance analysis"
+  },
+  {
+    "id": "zdnet",
+    "name": "ZDNet News",
+    "url": "https://www.zdnet.com/news/rss.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Enterprise IT infrastructure, cloud platforms, and data centers"
+  },
+  {
+    "id": "9to5mac",
+    "name": "9to5Mac",
+    "url": "https://9to5mac.com/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Apple ecosystem, silicon development, and mobile operating systems"
+  },
+  {
+    "id": "android-police",
+    "name": "Android Police",
+    "url": "https://www.androidpolice.com/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Mobile OS engineering, Google ecosystem, and firmware analysis"
+  },
+  {
+    "id": "hacker-news",
+    "name": "Hacker News (Frontpage)",
+    "url": "https://hnrss.org/frontpage",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Curated engineering discussions and software breakthroughs"
+  },
+  {
+    "id": "github-blog",
+    "name": "GitHub Engineering Blog",
+    "url": "https://github.blog/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Distributed systems engineering, open source, and developer tooling"
+  },
+  {
+    "id": "slashdot",
+    "name": "Slashdot",
+    "url": "http://rss.slashdot.org/Slashdot/slashdotMain",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "News for nerds: Stuff that matters in open systems and privacy"
+  },
+  {
+    "id": "cnbc-markets",
+    "name": "CNBC Global Markets",
+    "url": "https://search.cnbc.com/rs/search/view.html?partnerId=2000&keywords=markets&sort=date&output=rss",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Real-time Wall Street analysis, central bank rates, and bonds"
+  },
+  {
+    "id": "cnbc-economy",
+    "name": "CNBC US & Global Economy",
+    "url": "https://search.cnbc.com/rs/search/view.html?partnerId=2000&keywords=economy&sort=date&output=rss",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Inflation indexes, Federal Reserve outlook, and trade balance"
+  },
+  {
+    "id": "marketwatch-top",
+    "name": "MarketWatch Top Stories",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Securities trading, commodity futures, and economic indicators"
+  },
+  {
+    "id": "marketwatch-realtime",
+    "name": "MarketWatch Real-time Headlines",
+    "url": "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Breaking corporate earnings, IPOs, and market movements"
+  },
+  {
+    "id": "forbes-business",
+    "name": "Forbes Business",
+    "url": "https://www.forbes.com/business/feed/",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Global enterprise leadership, venture capital, and market strategies"
+  },
+  {
+    "id": "forbes-investing",
+    "name": "Forbes Investing",
+    "url": "https://www.forbes.com/investing/feed/",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Asset allocation, equities, hedge funds, and private wealth"
+  },
+  {
+    "id": "investing-news",
+    "name": "Investing.com News",
+    "url": "https://www.investing.com/rss/news.rss",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Foreign exchange, commodities, crude oil, and crypto markets"
+  },
+  {
+    "id": "business-insider",
+    "name": "Business Insider",
+    "url": "https://feeds.feedburner.com/businessinsider",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Global economic trends, disruptive business, and corporate intelligence"
+  },
+  {
+    "id": "nasa-breaking",
+    "name": "NASA Breaking News",
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Deep space missions, James Webb telemetry, and planetary exploration"
+  },
+  {
+    "id": "nasa-image-day",
+    "name": "NASA Space Flight Dispatches",
+    "url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Astronomy captures, orbital observations, and Artemis missions"
+  },
+  {
+    "id": "nature-latest",
+    "name": "Nature Journal Latest",
+    "url": "https://www.nature.com/nature.rss",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Peer-reviewed scientific research across biological and physical sciences"
+  },
+  {
+    "id": "sciencedaily-top",
+    "name": "ScienceDaily Top News",
+    "url": "https://www.sciencedaily.com/rss/top/science.xml",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Curated university and laboratory research findings"
+  },
+  {
+    "id": "sciencedaily-computers",
+    "name": "ScienceDaily Quantum & Computing",
+    "url": "https://www.sciencedaily.com/rss/computers_math/quantum_computers.xml",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Quantum supremacy, cryptographic theory, and photonic logic"
+  },
+  {
+    "id": "phys-org",
+    "name": "Phys.org Spotlight",
+    "url": "https://phys.org/rss-feed/",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Nanotechnology, materials science, condensed matter, and astrophysics"
+  },
+  {
+    "id": "new-scientist",
+    "name": "New Scientist",
+    "url": "https://www.newscientist.com/feed/home/?cmpid=RSS|NSNS-home",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Scientific discourse, cognitive sciences, and technological impact"
+  },
+  {
+    "id": "space-com",
+    "name": "Space.com Headlines",
+    "url": "https://www.space.com/feeds/all",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Orbital launches, aerospace engineering, and exoplanet research"
+  },
+  {
+    "id": "scientific-american",
+    "name": "Scientific American",
+    "url": "http://rss.sciam.com/ScientificAmerican-Global",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Authoritative reporting on scientific advances and societal implications"
+  },
+  {
+    "id": "live-science",
+    "name": "Live Science",
+    "url": "https://www.livescience.com/feeds/all",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Archaeological finds, human physiology, and natural phenomena"
+  },
+  {
+    "id": "mit-tech-review",
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Frontier innovation intelligence from Massachusetts Institute of Technology"
+  },
+  {
+    "id": "esa-news",
+    "name": "European Space Agency",
+    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Ariane rocket missions, Sentinel earth observation, and Martian probes"
+  },
+  {
+    "id": "defense-one",
+    "name": "Defense One",
+    "url": "https://www.defenseone.com/rss/all/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Strategic analysis of defense systems, unmanned drones, and global security"
+  },
+  {
+    "id": "breaking-defense",
+    "name": "Breaking Defense",
+    "url": "https://breakingdefense.com/feed/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Procurement programs, aerospace doctrine, and multi-domain operations"
+  },
+  {
+    "id": "usni-news",
+    "name": "US Naval Institute News",
+    "url": "https://news.usni.org/feed",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Naval strategy, fleet deployments, submarine operations, and maritime law"
+  },
+  {
+    "id": "war-on-the-rocks",
+    "name": "War on the Rocks",
+    "url": "https://warontherocks.com/feed/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Practitioner commentary on war, grand strategy, and military affairs"
+  },
+  {
+    "id": "defense-news",
+    "name": "Defense News Global",
+    "url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/global/?size=25",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Military hardware, radar tech, hypersonic missiles, and defense contracts"
+  },
+  {
+    "id": "foreign-policy",
+    "name": "Foreign Policy Magazine",
+    "url": "https://foreignpolicy.com/feed/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Diplomatic intelligence, sanctions analysis, and great-power competition"
+  },
+  {
+    "id": "airforce-times",
+    "name": "Air Force Times",
+    "url": "https://www.airforcetimes.com/arc/outboundfeeds/rss/category/news/?size=25",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Stealth aircraft, aerial combat tactics, and space command ops"
+  },
+  {
+    "id": "army-times",
+    "name": "Army Times",
+    "url": "https://www.armytimes.com/arc/outboundfeeds/rss/category/news/?size=25",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Armored warfare, electronic warfare tactical units, and logistics"
+  },
+  {
+    "id": "naval-news",
+    "name": "Naval News",
+    "url": "https://www.navalnews.com/feed/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Frigate construction, naval torpedo systems, and sonar developments"
+  },
+  {
+    "id": "bleeping-computer",
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Ransomware outbreaks, zero-day vulnerabilities, and security patches"
+  },
+  {
+    "id": "the-hacker-news",
+    "name": "The Hacker News (THN)",
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Cyber warfare, nation-state APT actors, and firmware vulnerabilities"
+  },
+  {
+    "id": "dark-reading",
+    "name": "Dark Reading",
+    "url": "https://www.darkreading.com/rss.xml",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Enterprise cybersecurity operations, SOC architecture, and threat intel"
+  },
+  {
+    "id": "krebs-on-security",
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Investigative cybercrime, dark web syndicates, and breach tracking"
+  },
+  {
+    "id": "security-week",
+    "name": "SecurityWeek",
+    "url": "https://feeds.feedburner.com/Securityweek",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Industrial control systems (ICS/SCADA) security and enterprise defense"
+  },
+  {
+    "id": "cisa-alerts",
+    "name": "CISA Cybersecurity Advisories",
+    "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "United States federal vulnerability warnings and exploit alerts"
+  },
+  {
+    "id": "schneier-security",
+    "name": "Schneier on Security",
+    "url": "https://www.schneier.com/feed/atom/",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Bruce Schneier essays on surveillance, cryptography, and governance"
+  },
+  {
+    "id": "trend-micro-research",
+    "name": "Trend Micro Threat Research",
+    "url": "https://feeds.trendmicro.com/Anti-MalwareBlog",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Malware reverse engineering, botnet takedowns, and cloud threats"
+  },
+  {
+    "id": "google-security-blog",
+    "name": "Google Online Security Blog",
+    "url": "https://feeds.feedburner.com/GoogleOnlineSecurityBlog",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Zero-day vulnerability discovery, Project Zero, and cryptographic algorithms"
+  },
+  {
+    "id": "weforum-agenda",
+    "name": "World Economic Forum Agenda",
+    "url": "https://www.weforum.org/agenda/feed/",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Global economic governance, energy transition, and multilateral trade"
+  },
+  {
+    "id": "coindesk-news",
+    "name": "CoinDesk Markets",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Decentralized finance, digital assets, and sovereign blockchain initiatives"
+  },
+  {
+    "id": "cointelegraph",
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/rss",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Cryptocurrency macro analysis, mining difficulty, and FinTech"
+  },
+  {
+    "id": "clean-technica",
+    "name": "CleanTechnica",
+    "url": "https://cleantechnica.com/feed/",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Renewable energy grids, battery chemistry, and electric transportation"
+  },
+  {
+    "id": "arpa-e-energy",
+    "name": "Renewable Energy World",
+    "url": "https://www.renewableenergyworld.com/feed/",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Solar photovoltaics, offshore wind turbines, and grid storage"
+  },
+  {
+    "id": "world-bank-blogs",
+    "name": "World Bank Development Dispatches",
+    "url": "https://blogs.worldbank.org/en/rss",
+    "category": "economy",
+    "language": "en",
+    "active": true,
+    "description": "Emerging market development economics, poverty indices, and grants"
+  },
+  {
+    "id": "brookings-defense",
+    "name": "Brookings Foreign Policy",
+    "url": "https://www.brookings.edu/topic/foreign-policy/feed/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Non-partisan strategic analysis of multilateral diplomacy and deterence"
+  },
+  {
+    "id": "csis-analysis",
+    "name": "CSIS Strategic Studies",
+    "url": "https://www.csis.org/analysis/rss",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Center for Strategic and International Studies maritime and aerospace briefs"
+  }
+]

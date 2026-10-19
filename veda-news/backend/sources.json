@@ -1,0 +1,92 @@
+[
+  {
+    "id": "antara-terkini",
+    "name": "Antara News Terkini",
+    "url": "https://www.antaranews.com/rss/terkini.xml",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Kantor Berita Nasional Indonesia - Berita Terkini"
+  },
+  {
+    "id": "tempo-nasional",
+    "name": "Tempo Nasional",
+    "url": "https://rss.tempo.co/nasional",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Investigasi & Berita Nasional Tempo"
+  },
+  {
+    "id": "cnn-indo-nasional",
+    "name": "CNN Indonesia Nasional",
+    "url": "https://www.cnnindonesia.com/nasional/rss",
+    "category": "indonesia",
+    "language": "id",
+    "active": true,
+    "description": "Berita Nasional Terverifikasi CNN Indonesia"
+  },
+  {
+    "id": "cnbc-indo-market",
+    "name": "CNBC Indonesia Market",
+    "url": "https://www.cnbcindonesia.com/market/rss",
+    "category": "economy",
+    "language": "id",
+    "active": true,
+    "description": "Pergerakan IHSG, Komoditas, & Valuta Asing"
+  },
+  {
+    "id": "bbc-world",
+    "name": "BBC News World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "category": "world",
+    "language": "en",
+    "active": true,
+    "description": "Global breaking news and field reporting from BBC"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Venture capital, Silicon Valley startups, and AI innovations"
+  },
+  {
+    "id": "the-verge",
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "technology",
+    "language": "en",
+    "active": true,
+    "description": "Consumer electronics, frontier computing, and digital culture"
+  },
+  {
+    "id": "nasa-breaking",
+    "name": "NASA Breaking News",
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "category": "science",
+    "language": "en",
+    "active": true,
+    "description": "Deep space missions, James Webb telemetry, and planetary exploration"
+  },
+  {
+    "id": "defense-one",
+    "name": "Defense One",
+    "url": "https://www.defenseone.com/rss/all/",
+    "category": "defense",
+    "language": "en",
+    "active": true,
+    "description": "Strategic analysis of defense systems, unmanned drones, and global security"
+  },
+  {
+    "id": "bleeping-computer",
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "category": "cyber",
+    "language": "en",
+    "active": true,
+    "description": "Ransomware outbreaks, zero-day vulnerabilities, and security patches"
+  }
+]
